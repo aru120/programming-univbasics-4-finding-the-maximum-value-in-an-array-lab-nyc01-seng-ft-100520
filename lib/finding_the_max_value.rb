@@ -11,8 +11,6 @@ def find_max_value(array)
       highN = array[count]
     end
       count += 1
-    
-    
   end
 highN
 end
