@@ -3,9 +3,10 @@ def find_max_value(array)
   
   
   count = 0
-  highN = 0
+
   
   while count < array.length do
+     highN = 0
     if (array[count] > highN)
       highN = array[count]
       
