@@ -14,5 +14,5 @@ def find_max_value(array)
 end
 
 end
-highN
+puts highN
 end
